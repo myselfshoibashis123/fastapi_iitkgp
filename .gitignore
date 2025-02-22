@@ -1,0 +1,6 @@
+__pycache__
+ml
+task-venv
+.DS_Store
+uploaded_files/
+fileuploads.db
